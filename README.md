@@ -1,2 +1,2 @@
-# Friend_recommedation
-# Friend Recommendation with the Mutual friends Field in a Dataset using Pyspark RDD
+# Friend Recommedation
+Friend Recommendation with the Mutual friends Field in a Dataset using Pyspark RDD
