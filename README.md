@@ -1,2 +1,1 @@
-# Friend Recommedation
-Friend Recommendation with the Mutual friend's Field in a Dataset using Pyspark RDD
+This repository contains the backend code for implementing a Friend Recommendation system using PySpark RDD with a focus on mutual friend connections.
